@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "W:/gasSensor_ws/GasSensor_ws/devel\\lib/site-packages",
+        "C:/Users/sathe/miniconda3/envs/ros_env/Library\\lib/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "W:/gasSensor_ws/GasSensor_ws/devel\\lib/site-packages",
+        "C:/Users/sathe/miniconda3/envs/ros_env/Library\\lib/site-packages"
+    ]
+}

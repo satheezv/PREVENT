@@ -1,0 +1,99 @@
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_setup.py:_flush():67] Configure stats pid to 21708
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_setup.py:_flush():67] Loading settings from C:\Users\sathe\.config\wandb\settings
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_setup.py:_flush():67] Loading settings from w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\settings
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231147-jewnu139\logs\debug.log
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231147-jewnu139\logs\debug-internal.log
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002A110149190>
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:init():784] starting backend
+2025-03-23 23:11:47,984 INFO    MainThread:21708 [wandb_init.py:init():788] sending inform_init request
+2025-03-23 23:11:48,001 INFO    MainThread:21708 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-23 23:11:48,001 INFO    MainThread:21708 [wandb_init.py:init():798] backend started and connected
+2025-03-23 23:11:48,003 INFO    MainThread:21708 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-23 23:11:48,012 INFO    MainThread:21708 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 13341: character maps to <undefined>
+2025-03-23 23:11:48,012 INFO    MainThread:21708 [wandb_init.py:init():891] updated telemetry
+2025-03-23 23:11:48,289 INFO    MainThread:21708 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-23 23:11:48,602 INFO    MainThread:21708 [wandb_init.py:init():990] starting run threads in backend
+2025-03-23 23:11:49,072 INFO    MainThread:21708 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-23 23:11:49,073 INFO    MainThread:21708 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-23 23:11:49,073 INFO    MainThread:21708 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-23 23:11:49,073 INFO    MainThread:21708 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-23 23:11:49,074 INFO    MainThread:21708 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-23 23:12:54,775 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:12:54,776 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:14:50,421 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:14:50,463 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231450-mhl1576q\logs\debug.log
+2025-03-23 23:14:50,464 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231450-mhl1576q\logs\debug-internal.log
+2025-03-23 23:14:50,464 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:14:50,464 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:14:50,464 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:15:50,013 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:15:50,013 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:18:11,355 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:18:11,360 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231811-q2bkc1t4\logs\debug.log
+2025-03-23 23:18:11,360 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_231811-q2bkc1t4\logs\debug-internal.log
+2025-03-23 23:18:11,360 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:18:11,360 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:18:11,360 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:18:58,523 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:18:58,523 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:25:00,930 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:25:00,958 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:25:00,958 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:25:07,151 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:25:07,161 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:25:07,161 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:25:18,002 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:25:18,297 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:25:18,297 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:25:25,961 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:25:25,975 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_232525-ujpjhipk\logs\debug.log
+2025-03-23 23:25:25,975 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_232525-ujpjhipk\logs\debug-internal.log
+2025-03-23 23:25:25,976 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:25:25,976 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:25:25,976 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:26:07,730 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:26:07,730 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:28:35,101 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:28:35,111 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:28:35,111 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:28:42,829 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:28:42,842 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:28:42,842 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:28:48,745 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:28:48,933 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:28:48,933 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:28:52,531 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:28:52,549 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_232852-z2m8hpom\logs\debug.log
+2025-03-23 23:28:52,549 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_232852-z2m8hpom\logs\debug-internal.log
+2025-03-23 23:28:52,549 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:28:52,549 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:28:52,550 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:29:21,090 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:29:21,105 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:30:21,489 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:30:21,522 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_233021-qi2wnrq1\logs\debug.log
+2025-03-23 23:30:21,522 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_233021-qi2wnrq1\logs\debug-internal.log
+2025-03-23 23:30:21,523 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:30:21,523 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:30:21,523 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:31:02,556 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:31:02,557 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-23 23:33:39,821 INFO    MainThread:21708 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-23 23:33:39,828 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():647] Logging user logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_233339-ctc50lg0\logs\debug.log
+2025-03-23 23:33:39,828 INFO    MainThread:21708 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to w:\gasSensor_ws\GasSensor_ws\src\BT\ztests\man_test_scripts\wandb\run-20250323_233339-ctc50lg0\logs\debug-internal.log
+2025-03-23 23:33:39,828 INFO    MainThread:21708 [wandb_init.py:init():761] calling init triggers
+2025-03-23 23:33:39,828 INFO    MainThread:21708 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-23 23:33:39,829 INFO    MainThread:21708 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-23 23:33:53,553 INFO    MainThread:21708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-23 23:33:53,554 INFO    MainThread:21708 [wandb_init.py:_pause_backend():564] pausing backend

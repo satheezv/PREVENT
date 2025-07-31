@@ -1,0 +1,22 @@
+{"time":"2025-03-13T19:10:06.4879948Z","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"w:\\gasSensor_ws\\GasSensor_ws\\src\\BT\\ztests\\man_test_scripts\\wandb\\run-20250313_191006-rx4gg6wb\\logs\\debug-core.log"}
+{"time":"2025-03-13T19:10:06.9402924Z","level":"INFO","msg":"created new stream","id":"rx4gg6wb"}
+{"time":"2025-03-13T19:10:06.9402924Z","level":"INFO","msg":"stream: started","id":"rx4gg6wb"}
+{"time":"2025-03-13T19:10:06.9407992Z","level":"INFO","msg":"sender: started","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:10:06.9407992Z","level":"INFO","msg":"writer: Do: started","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:10:06.9407992Z","level":"INFO","msg":"handler: started","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:10:07.2508971Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-13T19:10:07.9343078Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-13T19:10:14.2990272Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-13T19:10:17.7621255Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-13T19:10:20.624429Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-13T19:10:20.8997296Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-13T19:10:26.2177088Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-13T19:19:18.8257899Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-13T19:19:18.8268492Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-13T19:19:19.549883Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-13T19:19:19.7367062Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-13T19:19:19.7516114Z","level":"INFO","msg":"stream: closing","id":"rx4gg6wb"}
+{"time":"2025-03-13T19:19:19.7516114Z","level":"INFO","msg":"sender: closed","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:19:19.7516114Z","level":"INFO","msg":"handler: closed","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:19:19.7516114Z","level":"INFO","msg":"writer: Close: closed","stream_id":"rx4gg6wb"}
+{"time":"2025-03-13T19:19:19.7516114Z","level":"INFO","msg":"stream: closed","id":"rx4gg6wb"}

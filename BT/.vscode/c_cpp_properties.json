@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "W:\\gasSensor_ws\\GasSensor_ws\\devel\\include\\**",
+        "C:\\Users\\sathe\\miniconda3\\envs\\ros_env\\Library\\include\\**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,29 @@
+Total Images: 900
+Training Images: 720
+Validation Images: 180
+Classes: ['hazard', 'no hazard']
+C:\Users\sathe\miniconda3\envs\ros_env\lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\sathe\miniconda3\envs\ros_env\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Epoch [1/10]: 100%|██████████| 23/23 [00:55<00:00,  2.42s/it, loss=0.00165] 
+Epoch [1/10], Loss: 0.0848
+Epoch [2/10]: 100%|██████████| 23/23 [00:53<00:00,  2.34s/it, loss=0.153]   
+Epoch [2/10], Loss: 0.0503
+Epoch [3/10]: 100%|██████████| 23/23 [00:55<00:00,  2.39s/it, loss=0.00178] 
+Epoch [3/10], Loss: 0.0136
+Epoch [4/10]: 100%|██████████| 23/23 [00:54<00:00,  2.35s/it, loss=0.0433]  
+Epoch [4/10], Loss: 0.0049
+Epoch [5/10]: 100%|██████████| 23/23 [00:55<00:00,  2.39s/it, loss=0.000131]
+Epoch [5/10], Loss: 0.0031
+Epoch [6/10]: 100%|██████████| 23/23 [00:53<00:00,  2.32s/it, loss=0.0072]  
+Epoch [6/10], Loss: 0.0064
+Epoch [7/10]: 100%|██████████| 23/23 [00:52<00:00,  2.28s/it, loss=1.09e-5] 
+Epoch [7/10], Loss: 0.0012
+Epoch [8/10]: 100%|██████████| 23/23 [00:51<00:00,  2.23s/it, loss=4.33e-6] 
+Epoch [8/10], Loss: 0.0004
+Epoch [9/10]: 100%|██████████| 23/23 [00:50<00:00,  2.20s/it, loss=0.000133]
+Epoch [9/10], Loss: 0.0000
+Epoch [10/10]: 100%|██████████| 23/23 [00:51<00:00,  2.22s/it, loss=0.000226]
+Epoch [10/10], Loss: 0.0001

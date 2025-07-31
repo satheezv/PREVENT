@@ -1,0 +1,20 @@
+{"time":"2025-03-23T23:38:47.2526648Z","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"w:\\gasSensor_ws\\GasSensor_ws\\src\\BT\\ztests\\man_test_scripts\\wandb\\run-20250323_233847-nz96yxou\\logs\\debug-core.log"}
+{"time":"2025-03-23T23:38:47.362007Z","level":"INFO","msg":"created new stream","id":"nz96yxou"}
+{"time":"2025-03-23T23:38:47.362007Z","level":"INFO","msg":"stream: started","id":"nz96yxou"}
+{"time":"2025-03-23T23:38:47.362007Z","level":"INFO","msg":"handler: started","stream_id":"nz96yxou"}
+{"time":"2025-03-23T23:38:47.362007Z","level":"INFO","msg":"sender: started","stream_id":"nz96yxou"}
+{"time":"2025-03-23T23:38:47.362007Z","level":"INFO","msg":"writer: Do: started","stream_id":"nz96yxou"}
+{"time":"2025-03-23T23:38:47.7608982Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-23T23:39:09.2108757Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:43:27.8777445Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:44:21.2892084Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:50:08.078961Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:50:08.0886795Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:50:11.858859Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:50:11.8708058Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:50:14.7669619Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:50:15.0262901Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:50:17.9031946Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:50:41.2276373Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-23T23:51:09.1496815Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-23T23:51:09.1518047Z","level":"INFO","msg":"Pausing system monitor"}
