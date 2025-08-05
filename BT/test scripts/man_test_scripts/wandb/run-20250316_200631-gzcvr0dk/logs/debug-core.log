@@ -1,0 +1,10 @@
+{"time":"2025-03-16T19:45:34.502446Z","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\sathe\\AppData\\Local\\Temp\\tmporqvm65z\\port-3432.txt","pid":3432,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-16T19:45:34.5138992Z","level":"INFO","msg":"Will exit if parent process dies.","ppid":3432}
+{"time":"2025-03-16T19:45:34.5146919Z","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":10194,"Zone":""}}
+{"time":"2025-03-16T19:45:34.7080349Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T19:45:35.1041225Z","level":"INFO","msg":"handleInformInit: received","streamId":"zrpi6elp","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T19:45:35.4653882Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"zrpi6elp","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T19:55:23.7182251Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"zrpi6elp","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T19:55:23.7193079Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"zrpi6elp","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T20:06:31.0662105Z","level":"INFO","msg":"handleInformInit: received","streamId":"gzcvr0dk","id":"127.0.0.1:10196"}
+{"time":"2025-03-16T20:06:31.1836315Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"gzcvr0dk","id":"127.0.0.1:10196"}

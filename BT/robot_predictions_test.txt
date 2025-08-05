@@ -1,9 +1,0 @@
-Iteration Results
-==================
-Iteration 1: Prediction - no hazard
-Iteration 2: Prediction - no hazard
-Iteration 3: Prediction - no hazard
-Iteration 4: Prediction - hazard
-Iteration 5: Prediction - hazard
-==================
-Results successfully saved.

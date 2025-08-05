@@ -1,6 +1,0 @@
-Iteration Results
-==================
-Iteration 1: Prediction - []
-Iteration 2: Prediction - []
-==================
-Results successfully saved.
