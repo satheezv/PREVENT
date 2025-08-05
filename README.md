@@ -1,6 +1,6 @@
 <p style="text-align: justify;"><strong>PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robotic Chemists</strong></p>
 
-# PREVENT: Multimodal Behavior Tree Framework for Safer Robotic Chemistry Workflows
+# PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robotic Chemists
 
 Mobile robotic chemists are transforming chemistry and materials research by automating lab workflows. However, current systems often lack workflow awareness, making them vulnerable to small anomalies—such as uncapped sample vials—that can disrupt entire processes, waste resources, or even endanger researchers.
 
