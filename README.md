@@ -1,14 +1,3 @@
----
-# layout: archive
-title: "Project PREVENT (2025)"
-permalink: /projects/PREVENT
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 <p style="text-align: justify;"><strong>PREVENT: Proactive Risk Evaluation and Vigilant Execution of Navigation and Manipulation Tasks for Mobile Robotic Chemists</strong></p>
 
 <!-- <div style="text-align: center;">
