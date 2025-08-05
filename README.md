@@ -5,8 +5,8 @@ Mobile robotic chemists are transforming chemistry and materials research by aut
 
 **PREVENT** addresses this challenge by introducing a multimodal Behavior Tree (BT) framework that integrates:
 
--  Dexterous and Navigational Vision systems
--  IoT-based gas sensing for hazard detection
+-  Dexterous and Navigational Vision and modalities that detects workflow anomalies
+-  IoT-based olfactory modality for chemical hazard sensing
 -  AI-based perception modules (CNNs, VLMs)
 
 This repository provides:
