@@ -1,0 +1,7 @@
+[o] Hazard Detection System
+    {-} Detect Hazard Sequence
+        --> Detect Hazard
+        --> Confirm Hazard
+        --> Alert
+        --> Set Task Complete
+    --> Navigate

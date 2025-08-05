@@ -1,0 +1,29 @@
+Iteration Results
+==================
+Iteration 1: Prediction - hazard
+Iteration 2: Prediction - hazard
+Iteration 3: Prediction - hazard
+Iteration 4: Prediction - hazard
+Iteration 5: Prediction - no hazard
+Iteration 6: Prediction - hazard
+Iteration 7: Prediction - hazard
+Iteration 8: Prediction - hazard
+Iteration 9: Prediction - no hazard
+Iteration 10: Prediction - hazard
+Iteration 11: Prediction - hazard
+Iteration 12: Prediction - hazard
+Iteration 13: Prediction - hazard
+Iteration 14: Prediction - hazard
+Iteration 15: Prediction - hazard
+Iteration 16: Prediction - hazard
+Iteration 17: Prediction - hazard
+Iteration 18: Prediction - hazard
+Iteration 19: Prediction - hazard
+Iteration 20: Prediction - hazard
+Iteration 21: Prediction - hazard
+Iteration 22: Prediction - hazard
+Iteration 23: Prediction - hazard
+Iteration 24: Prediction - hazard
+Iteration 25: Prediction - hazard
+==================
+✅ Results successfully saved.
